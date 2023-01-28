@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(246, 247, 249, 0.862);
+}
+
+.mail {
+    text-decoration: none;
+}
+
+.left-in a:hover {
+    border-bottom: 1.5px solid ;
+}
+
+.footer p {
+    font-size: 10px;
+    text-align: center;
+}
+
+
+.btn a:hover {
+    font-size: 105%;
+}
+
+/*icon css*/
+.btn div a {
+    border: 1px solid #0a369d9d;
+    padding-top: 7px;
+    line-height: 30px;
+}
+
+
+@media (max-width: 632.99px) { 
+    .container {
+        padding-top: 40px;
+    }
+}
